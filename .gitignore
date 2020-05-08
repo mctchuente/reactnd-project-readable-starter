@@ -1,2 +1,7 @@
 node_modules/
+api-server/node_modules/
+api-server/package-lock.json
+frontend/node_modules/
+frontend/package-lock.json
+yarn.lock
 .DS_Store
